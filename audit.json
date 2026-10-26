@@ -1,0 +1,27 @@
+{
+  "sourceRows": 201168,
+  "sourceColumns": 21,
+  "rows": 90785,
+  "columns": 10,
+  "missingDropped": 50,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "months": 104,
+  "airlines": 10,
+  "airports": 266,
+  "latestMonth": "2026-08",
+  "covidDisruptionYears": [
+    2020,
+    2021
+  ],
+  "missingDelayRows": 112
+}
